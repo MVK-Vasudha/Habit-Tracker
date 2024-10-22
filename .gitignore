@@ -1,0 +1,21 @@
+# Ignore node_modules folder across the whole project
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore operating system files (like .DS_Store on macOS or Thumbs.db on Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace

@@ -1,0 +1,23 @@
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 25px 5%;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+
+.navbar a:hover{
+    size: 120%;
+    border-radius: 5px;
+    background-color: #9B68C2;
+    font-size: large;
+    transition: font-size 0.15s ease;
+}
+
+.navbar, div{
+    background-color: #7338A0;
+    height: 100px;
+    text-align: center;
+}
